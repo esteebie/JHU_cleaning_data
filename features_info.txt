@@ -57,3 +57,9 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
+
+Only the mean average and standard deviation data have been used for this analysis, reducing the number of variables to 86 (plus subject and activity).
+
+mn_std_data is the data frame containing all of these data.
+subj_av_data contains averages for each of the variables in mn_std_data calculated for each individual subject. It consists of 30 rows.
+Units as per the original columns
