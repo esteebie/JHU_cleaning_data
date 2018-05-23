@@ -1,4 +1,5 @@
 both data frames supplied for this assignment begin with the identifier variable 'subject'.
+They each have a reduced number of variables - just the 86 variables from the list below which are mean average data or standard deviation data.
 The mn_std_data data frame also has the response variable 'activity' as the final column.
 
 
